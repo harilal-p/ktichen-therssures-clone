@@ -1,0 +1,29 @@
+body{
+  margin: 0;
+  padding: 0;
+  
+}
+div{
+  
+}
+
+
+/* for kitchen logo at the nav bar */
+.logo{
+  width: 60px;
+}
+/* for whole nav bar */
+.nav-bar{
+
+  position: fixed;
+  background-color: black;
+  width: 100%;
+  height: 100px;
+
+}
+
+
+.nav-bar-informations{
+  margin-left: 112px;
+  margin-top: 10px;
+}

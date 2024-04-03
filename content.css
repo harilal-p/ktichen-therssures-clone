@@ -1,0 +1,330 @@
+body{
+  background-color: black;
+ 
+}
+
+
+.first-backgroundd-img{
+  width: 100%;
+ 
+
+}
+
+/* this is for thier planting  */
+#first-con-for-heading{
+  font-weight: 400;
+  color: #B09039;
+  margin-bottom: 30px;
+}
+/* this is about their company  */
+#second-con-for-heading{
+  font-weight: 400;
+  color: #B09039;
+  margin-bottom: 30px;
+}
+
+.summery-of-they{
+  line-height: 30px;
+  font-weight: 100;
+  color: #7A7A7A;
+}
+
+.the-main-container-for-synthetic-difference{
+  background-color:#27251c ;
+  height: 450px;
+
+}
+/* this is for the synthetic difference block  */
+.the-synthetic-difference{
+
+  text-align: center;
+   font-weight: 300;
+    font-size:35px;  color: #B09039;
+     font-weight: 300;
+      padding-top: 35px;
+       margin-bottom: 60px;
+}
+.round-img{
+  width:40%;
+  height: 40%;
+}
+.the-first-text{
+  margin-bottom: 0;
+  color: #6D5F5A;
+ 
+}
+.second-text{
+  margin-top: 0px;
+   margin-bottom: 0px;
+   color: #6D5F5A;
+}
+.therd-texts{
+  margin: 0;
+  color: #6D5F5A;
+}
+
+
+@media all and (min-width:375px) {
+
+  .the-main-container-for-synthetic-difference{
+    
+    height: 460px;
+   
+  
+  }
+  .the-synthetic-difference{
+    font-size: 24px;
+  }
+
+
+
+}
+
+@media all and (min-width:768px) {
+
+  .the-main-container-for-synthetic-difference{
+    
+    height: 660px;
+   
+  
+  }
+  .the-synthetic-difference{
+    font-size: 24px;
+  }
+
+
+
+}
+
+
+
+@media all and (min-width:1024px) {
+
+  .the-main-container-for-synthetic-difference{
+    
+    height: 460px;
+   
+  
+  }
+  .the-synthetic-difference{
+    font-size: 55px;
+  }
+  .round-img{
+    width:50%;
+    height: 50%;
+  }
+
+
+
+  .the-first-text{
+    margin-bottom: 0;
+    font-size: 25px;
+  }
+  .second-text{
+    margin-top: 0px;
+     margin-bottom: 0px;
+     font-size: 25px;
+  }
+
+  .therd-texts{
+    margin: 0;
+    font-size: 25px;
+  }
+  
+
+  
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.the-main-flex{
+  display: flex;
+  column-gap: 40px;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.check-icon{
+  width: 20%;
+}
+
+.flex-insed-a-flex{
+  display: flex;
+}
+
+.check-icon{
+  width: 14px;
+  height: 14px;
+  margin-top: 5px;
+  margin-right: 10px;
+}
+.our-ranges-of-products{
+  font-weight: 400;
+  font-size: 40px;
+  letter-spacing: 4px;
+  color: #B09039;
+  
+}
+.insie-flex-text{
+
+   color:#B09039;
+   letter-spacing: 2px;
+}
+
+.the-veg-masalas{
+  text-align: center;
+  margin-top: 20px;
+  font-size: 15px;
+  font-weight: 100;
+  color: #7A7A7A;
+  
+}
+
+
+
+
+.the-box-for-button{
+  display: flex;
+
+}
+
+.view-button{
+  color: red;
+  margin:12px 1px 35px 147px;
+  padding: 3px 16px 3px 16px;
+  border-style: solid;
+  border-width: 0px;
+  background-color: red;
+  color: white;
+
+
+}
+
+.card-title{
+  margin: 1px 0px 0px 2%;
+ 
+}
+.view-button-last{
+
+
+  color: red;
+  margin:12px 1px 35px 74px;
+  padding: 3px 16px 3px 16px;
+  border-style: solid;
+  border-width: 0px;
+  background-color: red;
+  color: white;
+
+}
+
+
+
+
+
+@media all and (min-width:768px) {
+  .view-button{
+    color: red;
+    margin:12px 1px 35px 17px;
+    padding: 3px 16px 3px 16px;
+    border-style: solid;
+    border-width: 0px;
+    background-color: red;
+    color: white;
+  
+  
+  }
+
+
+  .view-button-last{
+
+
+    color: red;
+    margin:12px 1px 35px 34px;
+    padding: 3px 16px 3px 16px;
+    border-style: solid;
+    border-width: 0px;
+    background-color: red;
+    color: white;
+  
+  }
+
+}
+
+
+
+@media all and (min-width:1024px) {
+  .view-button{
+    color: red;
+    margin:12px 1px 35px 33px;
+    padding: 3px 16px 3px 16px;
+    border-style: solid;
+    border-width: 0px;
+    background-color: red;
+    color: white;
+  
+  
+  }
+
+
+  .view-button-last{
+
+
+    color: red;
+    margin:12px 1px 35px 4px;
+    padding: 3px 16px 3px 16px;
+    border-style: solid;
+    border-width: 0px;
+    background-color: red;
+    color: white;
+  
+  }
+
+}
+  
+  
+
+
+
+
+.recipes-heading{
+  
+
+  text-align: center;
+  font-size: 43px;
+  font-weight: 300;
+  color: #B09039;
+  margin-top: 66px;
+  margin-bottom: 36px ;
+}
+
+.paragraph{
+
+  font-size: 14px;
+  font-weight: 500;
+  color: rgb(218, 218, 218);
+}
+
+.read-more{
+
+  color: red;
+}
+
+.main-conter-flex{
+  display: flex;
+}
+
+
+
+
+.red-text-when-hover-footer:hover{
+  color: red;
+}
